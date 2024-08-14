@@ -1,0 +1,14 @@
+[href="https://www.youtube.com/"]
+{
+    color: brown;
+}
+
+[href="https://validator.w3.org/"]
+{
+    color: red;
+}
+
+ul + p{
+    color: red;
+    font-size: 24px;
+}
